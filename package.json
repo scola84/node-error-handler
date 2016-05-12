@@ -1,0 +1,10 @@
+{
+  "name": "@scola/error-handler",
+  "version": "0.0.0",
+  "description": "Error handler for express and log4js",
+  "keywords": ["error", "handler", "express", "log4js"],
+  "repository": "github:scola84/node-error-handler",
+  "author": "M.C. van den Boogaart <scola@kvdb.name>",
+  "license": "MIT",
+  "main": "lib/handler.js"
+}
